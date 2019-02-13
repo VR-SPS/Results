@@ -14,4 +14,5 @@ Privacy threats
 <img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" align="center"/>
 
 
--Safety threats
+Safety threats
+- Safe
