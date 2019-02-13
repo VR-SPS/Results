@@ -15,7 +15,7 @@ The most drastic case in Fig. \ref{Bad_Frame_Rate} displays the frame rate under
 
 <p float="left">
   <img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" width="300" />
-  <img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" width="300" /> 
+  <img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" width="300" align="right"/> 
 </p>
 
 ### Privacy threats
