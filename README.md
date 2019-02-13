@@ -25,4 +25,6 @@ The results showed that any upload speed below 30 Kbps resulted in High Fidelity
 - For the simulation of safety attacks, we conducted a usability study introducing threats such as session failure and network discrepancy. Through this study, we measured the user Quality of Experience (QoE).
 - It is important to note that any security and privacy threats can also have safety consequences. For example, reducing the bandwidth can cause sudden changes in the VR content, which could severely impact the users' educational experience. This in turn could also highly disorient users and increase confusion and frustration levels. For our usability study, five participants entered the VRLE and their experience was measured under two conditions. They represented the two scenarios of control case with no threats and security breach.
 - We analyzed the statistically significant differences between the two conditions (breach and no breach) and displayed the results below to demonstrate a clear difference specifically in dizziness, confusion, control, and attitude towards the VRLE.
-                   <img src="https://github.com/VR-SPS/Results/blob/master/Usability.PNG" align="center"/>
+<p align="center">
+<img src="https://github.com/VR-SPS/Results/blob/master/Usability.PNG" align="center"/>
+</p>
