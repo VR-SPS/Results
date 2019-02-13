@@ -1,7 +1,7 @@
 #                        User Safety at Risk: Assessing Potential Threats Causing Cybersickness in Virtual Reality
 
 ## Introduction:
-Sociotechnical systems such as Virtual Reality (VR) provides applications in areas such as disaster training, learning environments, flight simulations, military training and so on. Such sociotechnical applications focus mainly on user experience but ignores user safety such as cybersickness as their primary concern.  Our study shows that cyber-attacks on network connected components such as IoT devices in VR applications may induce cybersickness to the end users. 
+Sociotechnical systems such as Virtual Reality (VR) provides applications in areas such as disaster training, learning environments, flight simulations, military training and so on. Such sociotechnical applications focus mainly on user experience but ignores user safety such as cybersickness as their primary concern. Our study shows that cyber-attacks on network connected components such as IoT devices in VR applications may induce cybersickness to the end users. 
 
 
 ## Results discussion:
@@ -15,18 +15,17 @@ Sociotechnical systems such as Virtual Reality (VR) provides applications in are
 </p>
 
 ### Cybersickness due to intermittent network discrepancies
-- We also validated how different bandwidth conditions and low frame rates can cause cybersickness in users. By simulating packet loss in which we changed the percentage of packets dropped, we recorded its effect on the VRLE environment and user experience. The corresponding VR world screens with and without the presence of severe packet loss are shown in figures below.
-- For network discrepancy, we considered different bandwidth qualities - high (normal), medium and low for upload and download speed to observe the frame rate and High Fidelity content download time.
-The results showed that any upload speed below 30 Kbps resulted in High Fidelity crashing. We observed similar impacts on VR headset content rendering.
-- In another case study, we found that low frame rate occuring due to low bandwidth can affect user health resulting in cybersickness. Causes such as low frame rate in VR makes very difficult for the users to stay in the environment for a long time. In addition, reducing 
+- We also validated how different bandwidth conditions and low frame rates can cause cybersickness in users. By simulating packet loss in which we changed the percentage of packets dropped, we recorded its effect on the VRLE environment and user experience. The corresponding VR world screens with and without the presence of severe packet loss are shown in figures below. Here, packet loss resulted in VR scrren lag resulting in cybersickness and nausea in users, whereas high packet loss resulted in sudden VR crash.
+- For network discrepancy, we considered different bandwidth qualities to observe the frame rate and it's affect on cybersickness. In a usability study conducted using 5 participants, we found that low frame rate occuring due to low bandwidth can affect user health resulting in cybersickness.  
 <p float="left">
   <img src="https://github.com/VR-SPS/Results/blob/master/Without%20Packet%20Loss.PNG" width="400" height="400" />
   <img src="https://github.com/VR-SPS/Results/blob/master/After%20Packet%20Loss.PNG" width="400" height="400" align="right"/> 
 </p>
 
-- For the simulation of safety attacks, we conducted a usability study introducing threats such as session failure and network discrepancy. Through this study, we measured the user Quality of Experience (QoE).
-- It is important to note that any security and privacy threats can also have safety consequences. For example, reducing the bandwidth can cause sudden changes in the VR content, which could severely impact the users' educational experience. This in turn could also highly disorient users and increase confusion and frustration levels. For our usability study, five participants entered the VRLE and their experience was measured under two conditions. They represented the two scenarios of control case with no threats and security breach.
+- Such threats could also highly disorient users and increase confusion and frustration levels. For our usability study, developed VRLE environment was tested with users in two scenarios i.e., security breach and no security breach. Causes such as low frame rate in VR makes very difficult for the users to stay in the environment for a long time. In addition, reducing
 - We analyzed the statistically significant differences between the two conditions (breach and no breach) and displayed the results below to demonstrate a clear difference specifically in dizziness, confusion, control, and attitude towards the VRLE.
 <p align="center">
 <img src="https://github.com/VR-SPS/Results/blob/master/Usability.PNG" align="center"/>
 </p>
+
+### Conclusion
