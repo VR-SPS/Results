@@ -4,13 +4,13 @@
 
 
 ## Results discussion:
-- Security threats
+Security threats
 
 
-- Privacy threats
+Privacy threats
 
--- In our proposed VRLE (Virtual Reality Learning Application), vSocial, we captured packets having users' confidential information. Using the packet sniffing, we found that confidential information such user's avatar, host server information for VR rendering. etc. can disclosed compromising user privacy in VR environment. Explained results are represented below.
-<img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG"/>
+- In our proposed VRLE (Virtual Reality Learning Application), vSocial, we captured packets having users' confidential information. Using the packet sniffing, we found that confidential information such user's avatar, host server information for VR rendering. etc. can disclosed compromising user privacy in VR environment. Explained results are represented below.
+<img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" align="center"/>
 
 
 -Safety threats
