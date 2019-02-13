@@ -12,7 +12,8 @@ For network discrepancy, we considered different bandwidth qualities - high (nor
 The results summarized in Table \ref{Table:Bandwidth} show that any upload speed below 30 Kbps resulted in High Fidelity crashing. We observed similar impacts on VR headset content rendering. 
 shows the frame rates inside the headset under high network performance and showcases a smooth VR rendering. Fig. \ref{Medium_FrameRate} displays the same CPU performance under a medium network condition, where the graph now contains a red coloring as well. This means that the frame rate is not really being affected, but that the High Fidelity VRLE application is using more than its allotted CPU budget. The GPU performance shows similar trends, but has not been shown for space constraints.
 The most drastic case in Fig. \ref{Bad_Frame_Rate} displays the frame rate under a low bandwidth with disruptive fluctuations that makes the experience inside the headset undesirably rough and jittery.
-<img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" width="400" align="left"/> <img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" width="400" align="right"/> 
+<img align="left" src="./documentation/images/A.jpg" alt="Made with Angular" title="Angular" hspace="20"/>
+<img align="left" src="./documentation/images/B.png" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
 ### Privacy threats
 
 - In our proposed VRLE (Virtual Reality Learning Application), vSocial, to simulate packet sniffing attacks, we captured a subset of packets being sent to/from our High Fidelity VRLE server IP address using Wireshark. Using the packet sniffing, we found that confidential information such user's avatar, host server information for VR rendering. etc. can disclosed compromising user privacy in VR environment. Explained results are represented below.
