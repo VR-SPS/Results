@@ -1,7 +1,7 @@
 #                        Security, Privacy and Safety Risk Assessment for Virtual Reality Learning Environment Applications
 
 ## Introduction:
-Social Virtual Reality based Learning Environments (VRLEs) such as vSocial render instructional content in a three-dimensional immersive computer experience for training youth with learning impediments. There are limited prior works that explored attack vulnerability in VR technology, and hence there is a need for systematic frameworks to quantify risks corresponding to security, privacy, and safety (SPS) threats. The SPS threats can adversely impact the educational user experience and hinder delivery of VRLE content. User experience, privacy and system security can get compromised if such threqats are not countered. In tgis report, we have explained the different threats that can happen in virtual reality applications.
+Social Virtual Reality based Learning Environments (VRLEs) such as vSocial render instructional content in a three-dimensional immersive computer experience for training youth with learning impediments. There are limited prior works that explored attack vulnerability in VR technology, and hence there is a need for systematic frameworks to quantify risks corresponding to security, privacy, and safety (SPS) threats. The SPS threats can adversely impact the educational user experience and hinder delivery of VRLE content. User experience, privacy and system security can get compromised if such threats are not countered. In this report, we have explained the different threats that can happen in virtual reality applications.
 
 ## Results discussion:
 ### Security threats
