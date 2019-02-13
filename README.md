@@ -1,14 +1,16 @@
 #                        User Safety at Risk: Assessing Potential Threats Causing Cybersickness in Virtual Reality
 
 ## Introduction:
-Sociotechnical systems such as Virtual Reality (VR) provides applications in areas such as disaster training, learning environments, flight simulations, military training and so on. Such sociotechnical applications focus mainly on user experience but ignores user safety such as cybersickness as their primary concern. Our study shows that cyber-attacks on network connected components such as IoT devices in VR applications may induce cybersickness to the end users. 
+Sociotechnical systems such as Virtual Reality (VR) provides applications in areas such as disaster training, learning environments, flight simulations, military training and so on. Such applications focus mainly on user experience but ignores user safety such as cybersickness as their primary concern. Our study shows that cyber-attacks on network connected components such as IoT devices in VR applications may induce cybersickness to users.
 
 
 ## Results discussion:
+For our study, we use several tools such as Wireshark, Clumsy 0.2, Netlimiter, etc. to simulate the attacks. In further sections, we explain different threats and how they impact user health (cause cybersickness) in VRLE.
+
 
 ### User confidential information getting diclosed disrupting one of the child nodes(Collect Information)
 
-- As explained in Fig. 3 and section III, different threats and attacks by the attacker can cause cybersickness. One such kind of cause can be disclosure of important user information in VR. Next, we explain how such akind of attacks can cause cybersickness and nausea while working in VR environment.
+- As explained in Fig. 3 and section III of the manuscript, different threats and attacks by the attacker can cause cybersickness. One such kind of cause can be disclosure of important user information in VR. Next, we explain how such akind of attacks can cause cybersickness and nausea while working in VR environment.
 - In our proposed VRLE (Virtual Reality Learning Application), vSocial, captured a set of packets being sent to/from our High Fidelity using Wireshark to see what kind of information can get disclosed. Using the packet sniffing, we found that confidential information such user's avatar, host server information for VR rendering. etc. can disclosed compromising user privacy in VR environment as shown in diagram below.
 - This demonstrated that information about the user or application can be captured which compromises privacy of the user, especially without a secured network protocol. After dislcosure of such information, an attacker can act as a legitimate user/ instructor and can hamper the experience of the user in VR environment. We tested this by conducting a usability test consisting multiple users in which an attacker was acting as a legitimate instructor and resulted in nausea, cybersicknews in users also affecting user experience.
 <p align="center">
@@ -16,7 +18,7 @@ Sociotechnical systems such as Virtual Reality (VR) provides applications in are
 </p>
 
 ### Cybersickness due to intermittent network discrepancies
-- Similarly, different network discrepancies or low UR/DR (leaf node of attack trees represented in Fig. 3) can result in cybersickness impacting user's health.
+- Similarly, different network discrepancies or low UR/DR (leaf node of attack trees represented in Fig. 3 of the manuscript) can result in cybersickness impacting user's health.
 - We validated how different bandwidth conditions and low frame rates can cause cybersickness in users. By simulating packet loss in which we changed the percentage of packets dropped, we recorded its effect on the VRLE environment and user experience. The corresponding VR world screens with and without the presence of severe packet loss are shown in figures below. Here, packet loss resulted in VR scrren lag resulting in cybersickness and nausea in users, whereas high packet loss resulted in sudden VR crash.
 - For network discrepancy, we considered different bandwidth qualities to observe the frame rate and it's affect on cybersickness. In a usability study conducted using 5 participants, we found that low frame rate occuring due to low bandwidth can affect user health resulting in cybersickness.  
 <p float="left">
