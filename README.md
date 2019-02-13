@@ -1,6 +1,6 @@
-             # Security, Privacy and Safety Risk Assessment for Virtual Reality Learning Environment Applications
+#                        Security, Privacy and Safety Risk Assessment for Virtual Reality Learning Environment Applications
 
-Introduction:
+## Introduction:
 
 
 Results discussion:
