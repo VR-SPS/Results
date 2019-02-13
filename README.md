@@ -14,9 +14,8 @@ shows the frame rates inside the headset under high network performance and show
 The most drastic case in Fig. \ref{Bad_Frame_Rate} displays the frame rate under a low bandwidth with disruptive fluctuations that makes the experience inside the headset undesirably rough and jittery.
 
 <p float="left">
-  <img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" width="100" />
-  <img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" width="100" /> 
-  <img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" width="100" />
+  <img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" width="300" />
+  <img src="https://github.com/VR-SPS/Results/blob/master/packet_sniffing.PNG" width="300" /> 
 </p>
 
 ### Privacy threats
