@@ -29,4 +29,4 @@ Sociotechnical systems such as Virtual Reality (VR) provides applications in are
 </p>
 
 ### Conclusion
-In this report, we showed how different threats happening in VR can result in nausea, cybersickness impacting user's health. Threats in VR can hamper user experience as well as affect user health causing cybersickness. User health can be compromised if such VR environments are not secured from threats such as packet loss, DoS, etc..
+VRLE proves to be a very effective learning environment for youth with autism. However,several threats not only affects security and privacy but also affects safety of the user by acusing cybersickness. In this report, we showed how different threats happening in VR can result in nausea, cybersickness impacting user's health. Threats in VR can hamper user experience as well as affect user health resulting in cybersickness. Threfore, in order to provide safe and secure VR learning environment, it is crucial to defend against such attack(threat) scenarios.
