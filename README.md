@@ -29,3 +29,4 @@ Sociotechnical systems such as Virtual Reality (VR) provides applications in are
 </p>
 
 ### Conclusion
+In this report, we showed how different threats happening in VR can result in nausea, cybersickness impacting user's health. Threats in VR can hamper user experience as well as affect user health causing cybersickness. User health can be compromised if such VR environments are not secured from threats such as packet loss, DoS, etc..
